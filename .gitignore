@@ -6,7 +6,8 @@ local.py
 # ./manage.py collectstatic folder
 static-collected/*
 
-
+Lib/
+Scripts/
 # Packages
 *.egg
 *.egg-info
